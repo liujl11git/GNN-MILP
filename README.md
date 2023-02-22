@@ -32,6 +32,7 @@ python 3_testing.py --data_path data-env2/testing --model_path data-env2-trainin
 ## Reproducing all results
 
 To reproduce all the results, please follow the commands in "cmds.txt"
+
 Our environment: NVIDIA Tesla V100, CUDA 10.1, tensorflow 2.4.1, PySCIPOpt 4.2.0.
 
 ## Citing our work
