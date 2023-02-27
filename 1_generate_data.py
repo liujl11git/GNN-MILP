@@ -4,7 +4,7 @@ import numpy as np
 import random as rd
 import os
 import argparse
-from pandas import read_csv
+from pandas import read_csv 
 import pyscipopt as scip
 
 ## ARGUMENTS
