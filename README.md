@@ -48,7 +48,7 @@ If you find our code helpful in your resarch or work, please cite our paper.
 @inproceedings{
 chen2023gnn-mip,
 title={On Representing Mixed-Integer Linear Programs by Graph Neural Networks},
-author={Ziang Chen and Jialin Liu and Xinshang Wang and Wotao Yin},
+author={Ziang Chen and Jialin Liu and Xinshang Wang and Jianfeng Lu and Wotao Yin},
 booktitle={International Conference on Learning Representations},
 year={2023}
 }
