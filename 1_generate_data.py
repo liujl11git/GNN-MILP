@@ -1,4 +1,4 @@
-# This script generates random LP instances for training and testing
+# This script generates random MILP instances for training and testing
 
 import numpy as np
 import random as rd
